@@ -1,3 +1,4 @@
 .#*
 *.swp
 flycheck_*
+/data
